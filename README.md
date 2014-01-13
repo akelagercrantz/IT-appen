@@ -8,7 +8,7 @@ Disclaimer: Code quality is (in retrospect) pretty shitty, and documentation doe
 How to run
 ------
 
-Make sure you have [http://cocoapods.org](CocoaPods) installed on your system, and run `pods install` through the command line before opening `IT-appen.xcworkspace` in Xcode.
+Make sure you have [http://cocoapods.org](CocoaPods) installed on your system, and run `pod install` through the command line before opening `IT-appen.xcworkspace` in Xcode.
 
 Questions?
 -----
